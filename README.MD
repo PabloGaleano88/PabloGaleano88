@@ -28,7 +28,10 @@
 
 [![Cisco Networking](https://img.shields.io/badge/Cisco_Networking-999999?style=for-the-badge&logo=cisco&logoColor=white&labelColor=101010)]()
 
-## Linkedin:
+[![Linux](https://img.shields.io/badge/Linux-ffffff?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
+
+[![Windows](https://img.shields.io/badge/Windows-red?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)]()
+
+## Linkedin
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo_Galeano-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/pablolgaleano/)
-

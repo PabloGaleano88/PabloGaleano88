@@ -7,12 +7,6 @@
 #### I am excited to continue growing in my career and applying my knowledge and experience to challenging and dynamic projects.
 
 
-
-
-
-
-.
-
 ### Electronic Engineer
 ### Fullstack Dev
 ----

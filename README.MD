@@ -1,7 +1,17 @@
 # Hi, my name is Pablo
 
-#### I'm electronic engineer, I have been working for 11 years in IT, managing to maintain high availability all time. I work in networking, virtualization, storage and also maintain systems based on linux and windows with my work group, we often automate tasks through scripts in different programming languages.
-#### I am currently doing the Fullstack course (HTML, CSS, JavaScript, React and backend) and also finished my course of Python.
+#### I am an electronic engineer with over 11 years of experience in the field of information technology (IT). Throughout my career, I have held key roles in projects that have maintained high availability at all times. My areas of expertise include network management, virtualization, storage, and the administration of Linux and Windows-based systems. I collaborate with teams to automate tasks through scripting in various programming languages.
+
+### Currently, I am expanding my skills as a Fullstack developer, where I have gained knowledge in HTML, CSS, JavaScript, React, and backend development. Additionally, I have successfully completed a Python course. My focus on continuous development reflects my commitment to constant improvement and the acquisition of new skills.
+
+### I am excited to continue growing in my career and applying my knowledge and experience to challenging and dynamic projects.
+
+
+
+
+
+
+.
 
 ### Electronic Engineer
 ### Fullstack Dev
